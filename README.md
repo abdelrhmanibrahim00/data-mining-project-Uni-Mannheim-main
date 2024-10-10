@@ -1,4 +1,4 @@
-# Data Mining Project - Team 7
+# Data Mining Project 
 Customer Churn Classification
 
 ## About the project
